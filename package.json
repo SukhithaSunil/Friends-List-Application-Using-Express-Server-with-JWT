@@ -1,0 +1,24 @@
+{
+  "name": "friends-list-application-using-express-server-with-jwt",
+  "version": "1.0.0",
+  "description": " Express Server with JWT",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SukhithaSunil/Friends-List-Application-Using-Express-Server-with-JWT.git"
+  },
+  "author": "sutha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SukhithaSunil/Friends-List-Application-Using-Express-Server-with-JWT/issues"
+  },
+  "homepage": "https://github.com/SukhithaSunil/Friends-List-Application-Using-Express-Server-with-JWT#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.4"
+  }
+}
